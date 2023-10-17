@@ -74,3 +74,5 @@ This web os is packed full of features ***AND MUCH MORE TO COME***
   ###### a. Wait for the email from Cloudflare that says your site is protected.
   
   ###### b. Make sure SSL/TLS is still the same (step 4)
+
+Hello! this is Urbigmumz or Pandora and i added ```Vercel.json``` so it could be used in <a target="_blank" href="https://vercel.com">vercel.com</a>
